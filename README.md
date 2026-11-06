@@ -1,6 +1,7 @@
 # Hi 👋, I'm GUstavo Henrique Feliciana
 🚀 **Student in a technical course in Systems Development | Experiences in: Python, JavaScript, PHP, JAVA 
-Brazil
+
+I live in Brazil
 
 I intend to build **innovative** **systems** for the market.
 
