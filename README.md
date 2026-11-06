@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm GUstavo Henrique Feliciana
+🚀 **Student in a technical course in Systems Development | Experiences in: Python, JavaScript, PHP, JAVA 
+Brazil
 
-<!--
-**gustavohenriquefeliciana/gustavohenriquefeliciana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I intend to build **innovative** **systems** for the market.
 
-Here are some ideas to get you started:
+I built a **functional and innovative** system for medical clinics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/gustavohenriquefeliciana">
+    <img src="https://img.shields.io/badge/GitHub-GUSTAVOHENRIQUEFELICIANA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/gustavohenriquefeliciana">
+    <img src="https://img.shields.io/badge/Instagram-@gustavohenriquefeliciana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+ 
+</p>
+
+---
+
+## 🧠 What I do
+- ⚡I am studying systems development;
+- 🧩Currently, I am studying JS and Java.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquefeliciana&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquefeliciana&layout=compact&theme=tokyonight" />
+</p>
+
+
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
