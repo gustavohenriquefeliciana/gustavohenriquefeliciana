@@ -49,13 +49,6 @@ I built a **functional and innovative** system for medical clinics.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquefeliciana&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquefeliciana&layout=compact&theme=tokyonight" />
-</p>
-
 
 
 ## 🚀 Philosophy
