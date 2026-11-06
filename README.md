@@ -1,5 +1,5 @@
 # Hi 👋, I'm GUstavo Henrique Feliciana
-🚀 **Student in a technical course in Systems Development | Experiences in: Python, JavaScript, PHP, JAVA 
+🚀 **Student in a technical course in Systems Development | knowledge in: Python, JavaScript, PHP, JAVA 
 
 I live in Brazil
 
