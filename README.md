@@ -1,4 +1,4 @@
-# Hi 👋, I'm GUstavo Henrique Feliciana
+# Hi 👋, I'm Gustavo Henrique Feliciana
 🚀 **Student in a technical course in Systems Development | knowledge in: Python, JavaScript, PHP, JAVA 
 
 I live in Brazil
